@@ -88,7 +88,7 @@ EVERY DEVELOPER HAS A PROJECT.
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&bg_color=0D1117&color=FFFFFF&line=DC143C&point=FFFFFF&area=true&hide_border=true" width="100%"/>
+[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=izzulhr&bg_color=0D1117&color=FFFFFF&line=DC143C&point=FFFFFF&area=true&hide_border=true)](https://github.com/izzulhr)
 
 </div>
 
